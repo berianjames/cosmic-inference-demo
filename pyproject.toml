@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "cosmic-inference-demo"
+version = "0.1.0"
+description = "Extension of research work on cosmic density field estimation using deep learning"
+authors = ["Berian James <1518788+berianjames@users.noreply.github.com>"]
+readme = "README.md"
+packages = [{include = "cosmic_inference_demo"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
