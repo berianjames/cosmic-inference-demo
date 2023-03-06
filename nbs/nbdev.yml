@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "cosmic-inference-demo"
+  site-url: "https://berianjames.github.io/cosmic-inference-demo"
+  description: "Extension of research work on cosmic density field estimation using deep learning"
+  repo-branch: main
+  repo-url: "https://github.com/berianjames/cosmic-inference-demo"
