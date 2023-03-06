@@ -7,7 +7,7 @@ readme = "README.md"
 packages = [{include = "cosmic_inference_demo"}]
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.9.16"
 nbdev = "^2.3.12"
 notebook = "^6.5.3"
 
